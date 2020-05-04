@@ -66,9 +66,12 @@
     font-weight: 700;
     font-size: 1.25rem;
     letter-spacing: 0.15em;
+
+    /* CUSTOM */
     border: 1px solid;
     padding: 10px;
     box-shadow: 5px 10px #888888;
+    /* CUSTOM */
   }
   h4 {
     font-size: 1.125rem;
@@ -1039,3 +1042,16 @@
       margin-bottom: 0;
     }
   }
+
+   /* MY SHITTY CUSTOM */
+   .trans {
+    transition: 1s;
+   } 
+   .trans:hover {
+    transform: scale(1.1);
+		background: #F6F6F6;
+		z-index: 0.9;
+		box-shadow: 2px 2px 2px #000;
+   }
+
+    /* MY SHITTY CUSTOM */
