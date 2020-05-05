@@ -7,5 +7,5 @@ Let's take a look what was done from all this :eye_speech_bubble:
 
 <details>
   <summary>A little prewiew </summary>
-![screenshot](http://immage.biz/images/2020/05/04/Sawp.jpg)
+![screenshot](https://github.com/soroka-ihor/homepage/blob/develop/images/screenshot.jpg)
 </details>
